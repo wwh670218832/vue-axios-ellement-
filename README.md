@@ -1,10 +1,10 @@
-# diyichuang
+＃vue项目初始化
 
-> A Vue.js project
 
 ## Build Setup
 
-``` bash
+Vue + axios + element-ui 按需加载 小项目直接使用  
+
 # install dependencies
 npm install
 
